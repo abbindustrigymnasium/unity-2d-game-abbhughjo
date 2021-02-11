@@ -1,2 +1,2 @@
 Flappy bird
-[flappy bird.jpg]
+![flappy_bird.jpg]
