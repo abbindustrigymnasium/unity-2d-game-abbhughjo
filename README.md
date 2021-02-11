@@ -1,2 +1,2 @@
 Flappy bird
-![flappy_bird.jpg]
+![alt text](flappy_bird.jpg "game pic")
